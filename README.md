@@ -8,15 +8,15 @@ promover o desenvolvimento sustentável, aplicar conhecimentos acadêmicos em si
 A atividade será composta por desenvolvimento de softwares que possam auxiliar a comunidade local. 
 Esses projetos serão organizados e realizados em ACE6(72h) e ACE7 (72h), sexto e sétimo períodos, respectivamente. 
 ## Práticas de gestão de projetos
-Utilize Scrum para o desenvolvimento do projeto com sprints semanais.São utlizadas as ferramentas Confluence e Jira para gerenciamento dos projetos.
+Utilize Scrum para o desenvolvimento do projeto com sprints semanais. O backlog e sprints devem ser definidas no modelo disponibilizado no Jira.
 ## Tecnologias e arquitetura
 1. **FrontEnd**: React 
 2. **BackEnd**: Python** e/ou Java como os frameworks Django/Flask(Python) e Spring(Java).
 5. **Banco de dados**: MariaDB
 6. **Modelo de arquitetura**: API REST(Representational State Transfer) e SOA(Service Oriented Architecture).
 ## Para começar a executar o projeto
-1. Definir um modelo para descrição de requisitos que todos os projetos deverão utilizar 
-2. Definir um artefato de modelagem (diag classes UML, diag ER/ERE) que deve ser criado em todo projeto. 
+1. Usar o modelo disponibilizado no Confluence para especificação de requisitos.
+2. Usar diagramas de caso de uso, diagrama ER e diagrama bpmn como artefato de modelagem.
 3. Definir uma ferramenta para testes de aceitação, preferencialmente, ou teste unitários
 ## Tecnologias adicionais
 1. Tanto a camada da aplicação, quanto do banco de dados, devem ser especificadas em um docker-compose.
