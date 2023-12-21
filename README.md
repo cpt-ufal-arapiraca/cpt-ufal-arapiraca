@@ -1,6 +1,5 @@
-# Atividade curricular de extensão
+# Instruções para o desenvolvimento de projetos de ACE
 Especificações para o desenvolvimento dos projetos das ACEs 6 e 7 do curso de Ciência da Computação da UFAL-Campus Arapiraca
-
 ## 🚀 Começando
 A modalidade PROJETO faz parte do programa de extensão do curso de Ciência da Computação de Arapiraca. 
 Atividades de extensão na modalidade projeto são ações que envolvem a realização de projetos práticos e concretos com o objetivo de atender as necessidades da comunidade,
